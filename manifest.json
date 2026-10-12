@@ -1,0 +1,17 @@
+{
+  "name": "کالری‌یار | همراه تغذیه سالم",
+  "short_name": "کالری‌یار",
+  "description": "ثبت کالری، وزن، آب، ورزش و برنامه غذایی برای دو نفر",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f4fa",
+  "theme_color": "#17142b",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
